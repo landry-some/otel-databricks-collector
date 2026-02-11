@@ -101,4 +101,8 @@ make test
 ## Use Cases
 
 - Exporting Databricks tables for monitoring
-- Automating n
+- Automating notebook execution
+- Sending Databricks telemetry to OTel collectors
+- Integrating data workflows into CI pipelines
+
+---
